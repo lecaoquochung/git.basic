@@ -1,1 +1,19 @@
 # The first file README
+Fundamental differences between GIT & SVN
+1. Git is distributed, SVN is not
++ Distributed Mode: everyone checkout from central server.
+Ex: The advantage of git
+You can develope on local repository event if there is no internet access environment
+
+2. Git stores content as metadata, SVN stores just files:
+Q: What is metadata?
+A: Metadata is data of data
+Ex: data of data
+Means of creation of the data
+Purpose of the data
+Time and date of creation
+Creator or author of the data
+
+3. Git branches are different form SVN branches
+Just test the task merged a branch in Git & SVN you will see the difference
+
