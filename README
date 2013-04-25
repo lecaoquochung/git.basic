@@ -1,19 +1,20 @@
-# The first file README
-Fundamental differences between GIT & SVN
-1. Git is distributed, SVN is not
-+ Distributed Mode: everyone checkout from central server.
-Ex: The advantage of git
-You can develope on local repository event if there is no internet access environment
+#Woking on master.jpn　日本語のマスタリポジトリ
+# 日本語のREADME
+SVNによりGITの基本的な特徴
+1. Gitは分散型バージョン管理システムですが、SVNは分散型ではありません。
++ 分散モードとは？ 開発者の間は柔軟です。
+例えば：有利な点　
+インターネット環境がない時もローカルのリポジトリで開発可能です。
 
-2. Git stores content as metadata, SVN stores just files:
-Q: What is metadata?
-A: Metadata is data of data
-Ex: data of data
-Means of creation of the data
-Purpose of the data
-Time and date of creation
-Creator or author of the data
+2. Gitはmetadataを保存する。SVNはファイルのみ保存する
+質問: metadataとはなんですか?
+回答: Metadataとは データの情報です
+例: 
+データを作る手段
+そのデータの目的
+データを作成する日時
+製作者のデータ
 
-3. Git branches are different form SVN branches
-Just test the task merged a branch in Git & SVN you will see the difference
+3. Gitのブランチ機能はSVNの方より幅広いです
+merge機能をチェックしてみると、すごく分かるようになりました。
 
