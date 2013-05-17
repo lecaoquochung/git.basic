@@ -1,0 +1,23 @@
+Let's introduce through PUSH command in Git. 
+
+Use this pattern to introduce yourself, and we can learn Git together
+No.
++ Name: 
++ Nickname:
++ Social link (Facebook, Twitter, Github etc.):  
++ Developing Language (HTML, JS, Jquery, PHP etc.): 
++ Evironment (Windows, Mac, Centos,...): 
++ Framework: 
++ PR:
++ Comment: 
+
+
+1. 
++ Name: Hungle	
++ Nickname: HL
++ Social link (Facebook, Twitter, Github etc.): http://github.com/lecaoquochung  
++ Developing Language (HTML, JS, Jquery, PHP etc.): HTML, JS, Jquery, PHP
++ Evironment (Windows, Mac, Centos,...): Windows, Mac, Centos
++ Framework: CakePHP
++ PR: I am working at System Engineer for 2 years. I can use English, Japanese & Vietnamese.
++ Comment: Want to master Git in the basic, feel free to chat with me !!!
