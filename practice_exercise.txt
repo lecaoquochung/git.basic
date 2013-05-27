@@ -1,0 +1,40 @@
+【実行1】ローカルでgitリポジトリを初期設定
+＊注意：事前にGitをインストールしてください。（ダウンロード：http://git-scm.com/downloads）
+＋ステップ１：開発フォルダを作成
+＄mkdir git.basic //コマンドで「git.basic」フォルダを作る
+＋ステップ２：git.basicフォルダでGit初期設定
+＄cd git.basic // コマンドでgit.basicフォルダに入る
+＄git init //Git初期設定
+参考：https://help.github.com/articles/create-a-repo
+実行１の動画： http://ddnb.info/git.basic/2013-05-09_2230_git.basic_01.swf
+
+【実行2】コマンドでSSH-Key作成
+＋ステップ１：SSH-Keyを作るコマンド
+＄ssh-keygen -t rsa -C "Eメール"　＃「Eメール」はラベールで新しいssh-keyを作る
+参考：https://help.github.com/articles/generating-ssh-keys
+SSH-Keyを作る後の一例：5c:1a:ce:ac:4c:51:29:38:63:ab:30:b6:2e:16:a7:4a　（fingerprintと呼ばれます）
+皆さんはこちらのポストにSSH-Key fingerprintをあげれば、下記のGitHubリポジトリを追加致します。
+https://github.com/lecaoquochung/git.basic
+実行２の動画： http://ddnb.info/git.basic/2013-05-09_2321_git.basic_02.swf
+実行のテスト： http://try.github.com/
+
+【実行3】:Gihubに自己紹介をPushしましょう
+下記の内容でリモートリポジトリにPushする
++ Name:
++ Nickname:
++ Social link (Facebook, Twitter, Github etc.):  
++ Developing Language (HTML, JS, Jquery, PHP etc.):
++ Evironment (Windows, Mac, Centos,...):
++ Framework:
++ PR:
++ Comment:
+リモートリポジトリPUSHリンク：git@github.com:lecaoquochung/git.basic.git
+
+【実行4】: git fetchのコマンドはどういう風に実行するなのかと練習しましょう
+説明
+＃mkdir git.basic -> フォルダgit.basic新規作る
+＃cd git.basic -> フォルダgit.basicを開く
+＃git init -> git初期設定
+＃git remote add origin git@github.com:lecaoquochung/git.basic.git-> リモートリポジトリを追加する
+＃git fetch origin -> リモートリポジトリの最新の履歴
+ゴールの実行リンク:  http://ddnb.info/git.basic/2013-05-27_0029_git.basic_03_fetch.swf
