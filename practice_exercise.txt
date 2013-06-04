@@ -38,3 +38,24 @@ https://github.com/lecaoquochung/git.basic
 ＃git remote add origin git@github.com:lecaoquochung/git.basic.git-> リモートリポジトリを追加する
 ＃git fetch origin -> リモートリポジトリの最新の履歴
 ゴールの実行リンク:  http://ddnb.info/git.basic/2013-05-27_0029_git.basic_03_fetch.swf
+
+【実行5】: git cloneのコマンド
+ロカールのリポジトリにgit.basicのリポジトリをcloneしましょう
+Clone URL: git://github.com/lecaoquochung/git.basic.git
+#mkdir git.basic.clone
+#cd git.basic.clone
+#git init
+#git clone git://github.com/lecaoquochung/git.basic.git
+実行動画：http://ddnb.info/swf/2013-06-03_1948_git.basic.clone.swf
+
+【実行6】: git pullのコマンド
+ロカールのリポジトリにgit.basicのリポジトリをPullしましょう
+Pull URL: https://github.com/lecaoquochung/git.basic.git
+#mkdir git.basic.pull
+#cd git.basic.pull
+#git init
+#vi README.md
+#git add -A
+#git commit -c “My local repository REAME file”
+#git pull  https://github.com/lecaoquochung/git.basic.git
+実行動画：http://ddnb.info/swf/2013-06-03_2010_git.basic.pull.swf
