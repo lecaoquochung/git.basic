@@ -1,0 +1,11 @@
+【実行7】: git addのコマンド
+ローカルリポジトリで「jikkou7.txt」というファイルを作成せてから、コミットしてください。
+「jikkou7.txt」の内容はこちらと同じです。
+#mkdir git.basic.add //新しフォルダ作成する
+#cd git.basic.add //作成したフォルダに入る
+#git init //git初期化設定する
+#vi jikkou7.txt //新ファイルを作成する
+#git add jikkou7.txt //コミットするファイルを指定する
+#git status //状況確認する
+#git commit jikkou7.txt //ロカールリポジトリをコミットする
+実行動画：http://ddnb.info/git.basic/2013-06-11_1017_git.basic.add.swf
