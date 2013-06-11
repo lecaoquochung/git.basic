@@ -1,0 +1,12 @@
+【実行8】: git branchのコマンド
+ローカルリポジトリで「jikkou8」というブランチを作成する
+ブランチ「jikkou8」で「jikkou8.txt」のファイルを作成してください。
+#git branch //ブランチを確認
+#git branch jikkou8 //新いブランチを作成する
+#git branch
+#git checkout jikkou8 //新しブランチを変更する
+#vi jikkou8.txt　//新しいファイルを製作する
+#git add jikkou8.txt　//コミットするファイルを指定する
+#git commit jikkou8.txt // ロカールリポジトリをコミットする
+#git status
+実行動画：http://ddnb.info/git.basic/2013-06-11_1023_git.basic.branch.swf
