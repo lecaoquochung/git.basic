@@ -14,3 +14,6 @@ D---E---F---G rebase_master
 Step1: Create new file jikkou9.txt
 This file is brandnew
 We are at Graph 1: D--- 
+Step2: make first change to file jikkou9.txt 
+D---E---
+After commit we will create branch rebase_topic
