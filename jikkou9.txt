@@ -27,4 +27,3 @@ Step 5: checkout to branch rebase_topic & make change to jikkou9.txt
       A
      /
 D---E
->>>>>>> git rebase->jikkou9.txt->Step5
