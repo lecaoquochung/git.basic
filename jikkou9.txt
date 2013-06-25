@@ -1,0 +1,16 @@
+-------------------------------------
+This is jikkou9.txt
+Graph 1:
+      A---B---C rebase_topic
+     /
+D---E---F---G rebase_master
+
+Our task here to change jikkou9.txt to this:
+Graph 2:
+              A'--B'--C' topic
+             /
+D---E---F---G rebase_master
+-------------------------------------
+Step1: Create new file jikkou9.txt
+This file is brandnew
+We are at Graph 1: D--- 
