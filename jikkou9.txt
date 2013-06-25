@@ -17,13 +17,11 @@ We are at Graph 1: D---
 Step2: make first change to file jikkou9.txt 
 D---E---
 After commit we will create branch rebase_topic
-<<<<<<< HEAD
 Step3: Create branch rebase_topic & make new change to file jikkou9.txt
 Still on branch rebase at
 D---E---F
 Step4: Make one more change to branch rebase and we will be at
 D---E---F---G rebase_master
-=======
 ...something missing here!!!
 Step 5: checkout to branch rebase_topic & make change to jikkou9.txt
       A
