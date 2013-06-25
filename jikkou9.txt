@@ -7,7 +7,7 @@ D---E---F---G rebase_master
 
 Our task here to change jikkou9.txt to this:
 Graph 2:
-              A'--B'--C' topic
+              A'--B'--C' rebase_topic
              /
 D---E---F---G rebase_master
 -------------------------------------
