@@ -32,4 +32,12 @@ D---E
 Step 6: make first change on the new branch rebase_topic to jikkou9.txt
       A---B
      /
+<<<<<<< HEAD
 D---E>>>>>>> git rebase->jikkou9.txt->Step5
+=======
+D---E
+Step 7: make one more change to branch rebase_topic and we will be add
+      A---B---C rebase_topic
+     /
+D---E
+>>>>>>> git rebase->jikkou9.txt->Step7
