@@ -1,12 +1,12 @@
-yÀs8z: git branch‚ÌƒRƒ}ƒ“ƒh
-ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚Åujikkou8v‚Æ‚¢‚¤ƒuƒ‰ƒ“ƒ`‚ğì¬‚·‚é
-ƒuƒ‰ƒ“ƒ`ujikkou8v‚Åujikkou8.txtv‚Ìƒtƒ@ƒCƒ‹‚ğì¬‚µ‚Ä‚­‚¾‚³‚¢B
-#git branch //ƒuƒ‰ƒ“ƒ`‚ğŠm”F
-#git branch jikkou8 //V‚¢ƒuƒ‰ƒ“ƒ`‚ğì¬‚·‚é
+ã€å®Ÿè¡Œ8ã€‘: git branchã®ã‚³ãƒãƒ³ãƒ‰
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã§ã€Œjikkou8ã€ã¨ã„ã†ãƒ–ãƒ©ãƒ³ãƒã‚’ä½œæˆã™ã‚‹
+ãƒ–ãƒ©ãƒ³ãƒã€Œjikkou8ã€ã§ã€Œjikkou8.txtã€ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã—ã¦ãã ã•ã„ã€‚
+#git branch //ãƒ–ãƒ©ãƒ³ãƒã‚’ç¢ºèª
+#git branch jikkou8 //æ–°ã„ãƒ–ãƒ©ãƒ³ãƒã‚’ä½œæˆã™ã‚‹
 #git branch
-#git checkout jikkou8 //V‚µƒuƒ‰ƒ“ƒ`‚ğ•ÏX‚·‚é
-#vi jikkou8.txt@//V‚µ‚¢ƒtƒ@ƒCƒ‹‚ğ»ì‚·‚é
-#git add jikkou8.txt@//ƒRƒ~ƒbƒg‚·‚éƒtƒ@ƒCƒ‹‚ğw’è‚·‚é
-#git commit jikkou8.txt // ƒƒJ[ƒ‹ƒŠƒ|ƒWƒgƒŠ‚ğƒRƒ~ƒbƒg‚·‚é
+#git checkout jikkou8 //æ–°ã—ãƒ–ãƒ©ãƒ³ãƒã‚’å¤‰æ›´ã™ã‚‹
+#vi jikkou8.txtã€€//æ–°ã—ã„ãƒ•ã‚¡ã‚¤ãƒ«ã‚’è£½ä½œã™ã‚‹
+#git add jikkou8.txtã€€//ã‚³ãƒŸãƒƒãƒˆã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŒ‡å®šã™ã‚‹
+#git commit jikkou8.txt // ãƒ­ã‚«ãƒ¼ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã‚’ã‚³ãƒŸãƒƒãƒˆã™ã‚‹
 #git status
-Às“®‰æFhttp://ddnb.info/git.basic/2013-06-11_1023_git.basic.branch.swf
+å®Ÿè¡Œå‹•ç”»ï¼šhttp://ddnb.info/git.basic/2013-06-11_1023_git.basic.branch.swf
